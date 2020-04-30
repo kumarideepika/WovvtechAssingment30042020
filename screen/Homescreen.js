@@ -7,7 +7,6 @@ export default class Homescreen extends Component{
         this.state={
             Countryid:'',
             showmessage:false
-            
         }
     }
    async GetCountyList(){
